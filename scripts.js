@@ -1,6 +1,6 @@
 var vgsPlayer, poster;
 vgsPlayer = videojs('vid1');
-vgsPlayer.poster('https://minhaz-0.github.io/img/online247.jpg');
+vgsPlayer.poster('https://minhaz-0.github.io/MHTV/mh.png');
 
 /********* LOAD URL *********/
 $('#vidlink li a').on('click', function (e) {
